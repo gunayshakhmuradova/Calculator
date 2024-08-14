@@ -9,13 +9,13 @@ html {
 }
 
 body {
-    background-color: #c4c4c4;
+    background-color: #961b1b8f;
     font-size: 1.2rem;
 }
 
 .calculator {
     border: 1px solid #ccc;
-    background-color: #eaeaea;
+    background-color: #94c081;
     border-radius: 5px;
     width: 400px;
     position: absolute;
